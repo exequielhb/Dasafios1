@@ -4,4 +4,4 @@
 
 2) https://lab2-kappa.vercel.app/
 
-3)
+3)https://lab3-iota.vercel.app/
